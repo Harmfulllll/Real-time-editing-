@@ -1,6 +1,6 @@
 # Real-Time Collaboration Tool
 
-This is a real-time collaboration tool that allows multiple users to edit a document simultaneously. It provides a seamless and interactive user experience for collaborative document editing.
+This is the backend for a real-time collaboration tool that allows multiple users to edit a document simultaneously. 
 
 ## Features
 
