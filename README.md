@@ -7,7 +7,6 @@ This is a real-time collaboration tool that allows multiple users to edit a docu
 - Real-time text editing: Users can make changes to the document, and the changes are immediately synchronized with other users in real-time.
 - Cursor tracking: The tool tracks the cursor position of each user, allowing collaborators to see where others are working within the document.
 - Selection highlighting: Users' selections within the document are highlighted in real-time for better collaboration.
-- Chat feature: Users can communicate with each other via chat messages while collaborating on the document.
 
 ## Technologies Used
 
