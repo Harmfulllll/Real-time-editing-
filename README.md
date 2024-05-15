@@ -26,10 +26,9 @@ This is a real-time collaboration tool that allows multiple users to edit a docu
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Harmfulllll/Real-time-editing-.git
-
 2. Navigate into the project directory: `cd your-repo-name`
-3.Create a .env file in the root directory and add the necessary values according to the code
-4.Start the server
+3. Create a .env file in the root directory and add the necessary values according to the code
+4. Start the server
 
 ### Contact
 Tanvir Hassan Joy - [Github](https://github.com/Harmfulllll)
